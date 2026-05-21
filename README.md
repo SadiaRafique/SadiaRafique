@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sadia Rafique 👋
 
-<!--
-**SadiaRafique/SadiaRafique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Student (2028) | Punjab, Pakistan  
+☕ Learning Java via Helsinki MOOC  
+🔐 Passionate about AI & Cybersecurity  
+🧠 Long-term goal: Brain-Computer Interfaces  
 
-Here are some ideas to get you started:
+## 🚀 Currently
+- ✅ Helsinki Java MOOC — Part 2 (Loops)
+- 📚 Google Cybersecurity Certificate (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [HelsinkiJava](https://github.com/SadiaRafique/HelsinkiJava) — Java MOOC solutions
