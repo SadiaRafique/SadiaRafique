@@ -15,9 +15,9 @@
 
 ## 📊 GitHub Stats
 
-![Sadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadiaRafique&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Sadia's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SadiaRafique&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaRafique&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SadiaRafique&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SadiaRafique&theme=tokyonight&hide_border=true)
 
