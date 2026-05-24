@@ -11,10 +11,12 @@
 
 ## 📌 Projects
 - [HelsinkiJava](https://github.com/SadiaRafique/HelsinkiJava) — Java MOOC solutions
+- [CGPA_Calculator](https://github.com/SadiaRafique/CGPA_Calculator) — Console-based Java CGPA calculator
 
 ## 🚧 Currently Building
-- 🧮 CGPACalculator — Java console app
+- 🔏 Build a Password Strength Checker in Java
 - 🌍 QazaTrack — Bilingual Islamic prayer tracker PWA
+
 
 ## 📊 GitHub Stats
 
