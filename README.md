@@ -12,6 +12,9 @@
 ## 📌 Projects
 - [HelsinkiJava](https://github.com/SadiaRafique/HelsinkiJava) — Java MOOC solutions
 
+## 🚧 Currently Building
+- 🧮 CGPACalculator — Java console app
+- 🌍 QazaTrack — Bilingual Islamic prayer tracker PWA
 
 ## 📊 GitHub Stats
 
